@@ -1,0 +1,8 @@
+
+*.yml
+README.md
+templates/base.rules.empty_docker.j2
+templates/base.rules_docker.j2
+templates/iptables.service.j2
+templates/iptables@.service.j2
+tests/inventory
